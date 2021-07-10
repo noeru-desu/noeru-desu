@@ -1,5 +1,5 @@
 <div align="center">
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sophie-desu&show_icons=true&theme=dracula" alt="sophie-desu github stats"></p>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=noeru-desu&show_icons=true&theme=dracula" alt="noeru-desu github stats"></p>
 </div>
 <div>
   <p align="center">
@@ -9,5 +9,5 @@
   </p>
 </div>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sophie-desu&layout=compact&theme=dracula"></p>
-<p align="center"><img src="https://count.getloli.com/get/@sophie_desu?theme=rule34" alt="sophie-desu"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noeru-desu&layout=compact&theme=dracula"></p>
+<p align="center"><img src="https://count.getloli.com/get/@noeru_desu?theme=rule34" alt="noeru-desu"></p>
