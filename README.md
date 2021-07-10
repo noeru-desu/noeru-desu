@@ -1,3 +1,4 @@
+<img align='right' src='https://cdn.jsdelivr.net/gh/noeru-desu/noeru-desu/assets/profile_image.png' width='407px'>
 <div align="center">
   <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=noeru-desu&show_icons=true&theme=dracula" alt="noeru-desu github stats"></p>
 </div>
